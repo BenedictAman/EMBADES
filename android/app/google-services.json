@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819363157577",
+    "project_id": "edromis-d3e4c",
+    "storage_bucket": "edromis-d3e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819363157577:android:8f606ec204a614845bd198",
+        "android_client_info": {
+          "package_name": "com.example.edromis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG4b5Y8H1GMKas33jGdUWwVKEYWHyEhgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
